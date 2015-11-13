@@ -1,0 +1,10 @@
+Number of spins in each direction: 10
+Total number of MC cycles: 1000000
+Initial spin configuration: random
+T              E              M  specific_heat susceptibility
+2.32       -140.994        70.9805        131.076        214.118
+2.33       -140.132         70.452        129.945            215
+2.34       -138.839        69.5219        130.047        220.267
+2.35        -137.19        68.1867        130.646         230.35
+2.36       -135.827        67.1761        130.785        235.303
+2.37       -134.725        66.3884        129.974        238.343
